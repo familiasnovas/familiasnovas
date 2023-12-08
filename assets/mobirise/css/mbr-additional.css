@@ -1310,7 +1310,7 @@ a {
   }
 }
 .cid-tJS6uM4N87 {
-  padding-top: 8rem;
+  padding-top: 7rem;
   padding-bottom: 1rem;
   background-color: #edefeb;
 }
@@ -1343,7 +1343,7 @@ a {
 }
 .cid-tMlEXTHLbS {
   padding-top: 2rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #2b7a69;
 }
 .cid-tMlEXTHLbS img,
@@ -1412,7 +1412,7 @@ a {
 }
 .cid-tLeaLmEeFr {
   padding-top: 3rem;
-  padding-bottom: 6rem;
+  padding-bottom: 2rem;
   background-color: #edefeb;
 }
 .cid-tLeaLmEeFr .mbr-fallback-image.disabled {
@@ -1456,7 +1456,7 @@ a {
 }
 .cid-tJS9vXDdRK {
   padding-top: 2rem;
-  padding-bottom: 6rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
 .cid-tJS9vXDdRK .mbr-fallback-image.disabled {
@@ -1499,9 +1499,72 @@ a {
 .cid-tJS9vXDdRK .mbr-section-btn {
   color: #232323;
 }
+.cid-tXNAPqitjV {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #edefeb;
+}
+.cid-tXNAPqitjV .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tXNAPqitjV .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tXNAPqitjV .card-wrapper {
+  overflow: hidden;
+  background: #ffffff;
+}
+.cid-tXNAPqitjV .text-wrapper {
+  padding: 4rem 3rem;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-tXNAPqitjV .text-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tXNAPqitjV .text-wrapper {
+    padding: 1.5rem;
+  }
+}
+.cid-tXNAPqitjV .row {
+  align-items: center;
+  margin-right: -1rem;
+  margin-left: -1rem;
+}
+.cid-tXNAPqitjV .row {
+  flex-direction: row-reverse;
+}
+.cid-tXNAPqitjV .image-wrapper {
+  padding: 0 1rem;
+}
+.cid-tXNAPqitjV img,
+.cid-tXNAPqitjV .image-wrapper {
+  height: 500px;
+  object-fit: cover;
+}
+@media (max-width: 767px) {
+  .cid-tXNAPqitjV img,
+  .cid-tXNAPqitjV .image-wrapper {
+    max-height: 350px;
+  }
+}
+.cid-tXNAPqitjV .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-tXNAPqitjV .mbr-text {
+  color: #000000;
+}
 .cid-tMlDYtQ5fF {
-  padding-top: 5rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 0rem;
   background-image: url("../../../assets/images/foto-seminrio-2000x1119.jpeg");
 }
 .cid-tMlDYtQ5fF .mbr-fallback-image.disabled {
@@ -1769,15 +1832,15 @@ a {
 }
 .cid-tMlDYtQ5fF H3 {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tMlDYtQ5fF H4 {
   text-align: center;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-tJS9pBcTSa {
-  padding-top: 3rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
   background-color: #ffffff;
 }
 .cid-tJS9pBcTSa .mbr-overlay {
@@ -1797,8 +1860,8 @@ a {
   }
 }
 .cid-tLdYHD757A {
-  padding-top: 1rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background: #f7f7f7;
 }
 .cid-tLdYHD757A .mbr-fallback-image.disabled {
@@ -1879,8 +1942,8 @@ a {
   margin: 0;
 }
 .cid-tJS9NNcTLZ {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-color: #2b7a69;
 }
 @media (max-width: 991px) {
